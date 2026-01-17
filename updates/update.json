@@ -2,7 +2,7 @@
   "version_code": 2,
   "version_name": "1.1",
   "changelog": "🎉 Pembaruan Versi 1.1\n\n✨ Fitur Baru:\n- Sistem update otomatis\n- Tampilan lebih modern\n- Performa lebih cepat\n\n🐛 Perbaikan:\n- Bug saat hapus note\n- Stabilitas aplikasi\n- Optimasi memori\n\n📌 Catatan:\nSilakan backup data sebelum update",
-  "apk_url": "https://raw.githubusercontent.com/JIGOXHZNew/bulkynote-updates/99d9d11c23b7d40fb4a4eb231e9c8f3ebb35ab65/updates/releases/bulkyApp1.0.apk",
+  "apk_url": "https://raw.githubusercontent.com/JIGOXHZNew/bulkynote-updates/3888cd64b7b2a88c69cd385c069bb4b150c39ec7/updates/releases/app.apk",
   "file_size_mb": "4.5",
   "min_android_version": 21,
   "force_update": false
