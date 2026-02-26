@@ -1,5 +1,5 @@
 {
-  "version_code": 5,
+  "version_code": 6,
   "version_name": "2.0",
   "changelog": "🎉 Pembaruan Versi 2.0\n\n✨ Fitur Baru:\n- Input manual yang lebih mudah digunakan.\n- Data otomatis terkirim ke spreadsheets.\n- Pengisian Google Form secara otomatis dengan data yang telah diinput.\n- Tampilan antarmuka pengguna (UI) yang lebih modern dan user-friendly.\n\n🐛 Perbaikan:\n- Meningkatkan stabilitas aplikasi untuk pengalaman pengguna yang lebih baik.\n- Optimasi performa untuk memastikan aplikasi berjalan lebih cepat dan efisien.",
   "apk_url": "https://raw.githubusercontent.com/JIGOXHZNew/bulkynote-updates/main/updates/releases/BulkyNote_2.0.apk",
