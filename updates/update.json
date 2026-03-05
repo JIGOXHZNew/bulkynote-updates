@@ -1,8 +1,8 @@
 {
-  "version_code": 12,
-  "version_name": "3.0",
-  "changelog": "✨ Pembaruan 3.0\n-Data resi auto masuk ke spreadsheets\tab baru di floating window dengan ui baru",
-  "apk_url": "https://raw.githubusercontent.com/JIGOXHZNew/bulkynote-updates/main/updates/releases/BulkyNote_3.0.apk",
+  "version_code": 13,
+  "version_name": "3.1",
+  "changelog": "✨ Perbaikan bug 3.1\n- 💾 Data resi tersimpan permanen (tidak hilang saat app ditutup), hanya terhapus setelah berhasil dikirim.\n- Resi mengisi baris kosong di spreadsheet sebelum menambah baris baru.",
+  "apk_url": "https://raw.githubusercontent.com/JIGOXHZNew/bulkynote-updates/main/updates/releases/BulkyNote_3.1.apk",
   "file_size_mb": "4.5",
   "min_android_version": 21,
   "force_update": false
