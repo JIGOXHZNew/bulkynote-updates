@@ -1,8 +1,8 @@
 {
-  "version_code": 11,
-  "version_name": "2.0",
-  "changelog": "✨ Perbaikan Fitur dan Masih Test.",
-  "apk_url": "https://raw.githubusercontent.com/JIGOXHZNew/bulkynote-updates/main/updates/releases/BulkyNote_2.0.apk",
+  "version_code": 12,
+  "version_name": "3.0",
+  "changelog": "✨ Pembaruan 3.0\n-Data resi auto masuk ke spreadsheets\tab baru di floating window dengan ui baru",
+  "apk_url": "https://raw.githubusercontent.com/JIGOXHZNew/bulkynote-updates/main/updates/releases/BulkyNote_3.0.apk",
   "file_size_mb": "4.5",
   "min_android_version": 21,
   "force_update": false
