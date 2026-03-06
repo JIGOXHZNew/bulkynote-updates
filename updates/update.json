@@ -1,8 +1,8 @@
 {
-  "version_code": 13,
-  "version_name": "3.1",
-  "changelog": "✨ Perbaikan bug 3.1\n- 💾 Data resi tersimpan permanen (tidak hilang saat app ditutup), hanya terhapus setelah berhasil dikirim.\n- Resi mengisi baris kosong di spreadsheet sebelum menambah baris baru.",
-  "apk_url": "https://raw.githubusercontent.com/JIGOXHZNew/bulkynote-updates/main/updates/releases/BulkyNote_3.1.apk",
+  "version_code": 14,
+  "version_name": "3.2",
+  "changelog": "✨ Perbaikan bug 3.2 :\n\n-card ukuran tidak hilang setelah resi berhasil dikirim ke spreadsheet.\n\n- Fix: error ReferenceError targetRow saat pengiriman resi.\n\n🔥 Optimasi\n\n- Aplikasi lebih optimal",
+  "apk_url": "https://raw.githubusercontent.com/JIGOXHZNew/bulkynote-updates/main/updates/releases/BulkyNote_3.2.apk",
   "file_size_mb": "4.5",
   "min_android_version": 21,
   "force_update": false
