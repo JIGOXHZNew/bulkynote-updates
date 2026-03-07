@@ -1,8 +1,8 @@
 {
-  "version_code": 14,
-  "version_name": "3.2",
-  "changelog": "✨ Perbaikan bug 3.2 :\n\n-card ukuran tidak hilang setelah resi berhasil dikirim ke spreadsheet.\n\n- Fix: error ReferenceError targetRow saat pengiriman resi.\n\n🔥 Optimasi\n\n- Aplikasi lebih optimal",
-  "apk_url": "https://raw.githubusercontent.com/JIGOXHZNew/bulkynote-updates/main/updates/releases/BulkyNote_3.2.apk",
+  "version_code": 15,
+  "version_name": "4.0",
+  "changelog": "✨ Pembaruan Dan fitur baru 4.0 :\n\n- Menambah ukuran baru.\n\n- Menambahkan ukuran baru di kolom sheet yang di inginkan\n\n🔥 Optimasi\n\n- Aplikasi lebih optimal.",
+  "apk_url": "https://raw.githubusercontent.com/JIGOXHZNew/bulkynote-updates/main/updates/releases/BulkyNote_4.0.apk",
   "file_size_mb": "4.5",
   "min_android_version": 21,
   "force_update": false
