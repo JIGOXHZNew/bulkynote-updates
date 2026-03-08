@@ -1,8 +1,8 @@
 {
-  "version_code": 15,
-  "version_name": "4.0",
+  "version_code": 16,
+  "version_name": "4.1",
   "changelog": "✨ Pembaruan Dan fitur baru 4.0 :\n\n- Menambah ukuran baru.\n\n- Menambahkan ukuran baru di kolom sheet yang di inginkan\n\n🔥 Optimasi\n\n- Aplikasi lebih optimal.",
-  "apk_url": "https://raw.githubusercontent.com/JIGOXHZNew/bulkynote-updates/main/updates/releases/BulkyNote_4.0.apk",
+  "apk_url": "https://raw.githubusercontent.com/JIGOXHZNew/bulkynote-updates/main/updates/releases/BulkyNote_4.1.apk",
   "file_size_mb": "4.5",
   "min_android_version": 21,
   "force_update": false
