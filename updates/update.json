@@ -1,6 +1,6 @@
 {
-  "version_code": 22,
-  "version_name": "5.0",
+  "version_code": 23,
+  "version_name": "5.1",
   "changelog": "✨ **Pembaruan Aplikasi 5.0:**\n\n- 🔧 **Perbaikan Bug**: Memperbaiki bug preview spreadsheet yang tidak terbuka ketika floating tertutup.\n- 📦 **Fitur Baru**: Menambahkan suara saat scan resi, menghapus resi, dan mengirim resi.\n- 🆕 **Format Baru**: Menambahkan format baru dengan awalan ID 'IDxxxxxx'.\n- 🛠️ **Perbaikan**: Memperbaiki bug saat mengirim semua resi, sehingga resi dengan ukuran baru tidak akan hilang.",
   "apk_url": "https://raw.githubusercontent.com/JIGOXHZNew/bulkynote-updates/main/updates/releases/BulkyNote_5.0.apk",
   "file_size_mb": "4.5",
