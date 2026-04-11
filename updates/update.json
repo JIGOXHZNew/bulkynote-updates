@@ -1,7 +1,7 @@
 {
   "version_code": 28,
   "version_name": "6.2",
-  "changelog": "1. Perbaikan bug Auto-merge resi pada kirim berulang, yang akan mendorong resi ukuran baru.\n\n2. Perbaikan preview spreadshet yang tidak terbuka setelah pda mati mendadak.\n\n4. Optimalisasi membuka spreadsheets untuk kirim ukuran baru biar gk lag di pda lemot.\n\n3. Menambah fitur pilih ukuran secara banyak dengan cara di tekan lama ukuranya.",
+  "changelog": "",
   "apk_url": "https://raw.githubusercontent.com/JIGOXHZNew/bulkynote-updates/main/updates/releases/BulkyNote_6.5.apk",
   "file_size_mb": "4.5",
   "min_android_version": 21,
