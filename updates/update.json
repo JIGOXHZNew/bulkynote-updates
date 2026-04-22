@@ -1,8 +1,8 @@
 {
-  "version_code": 30,
-  "version_name": "6.7",
+  "version_code": 31,
+  "version_name": "6.8",
   "changelog": "",
-  "apk_url": "https://raw.githubusercontent.com/JIGOXHZNew/bulkynote-updates/main/updates/releases/BulkyNote_6.7.apk",
+  "apk_url": "https://raw.githubusercontent.com/JIGOXHZNew/bulkynote-updates/main/updates/releases/BulkyNote_6.8.apk",
   "file_size_mb": "4.5",
   "min_android_version": 21,
   "force_update": false
