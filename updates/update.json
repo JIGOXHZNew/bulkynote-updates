@@ -1,7 +1,7 @@
 {
   "version_code": 32,
   "version_name": "6.9",
-  "changelog": "\n\n- Update end format resi to 5",
+  "changelog": "- Update end format resi to 5",
   "apk_url": "https://raw.githubusercontent.com/JIGOXHZNew/bulkynote-updates/main/updates/releases/BulkyNote_6.9.apk",
   "file_size_mb": "4.5",
   "min_android_version": 21,
